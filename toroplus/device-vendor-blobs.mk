@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/toroplus/proprietary/bcm4330.hcd:system/vendor/firmware/bcm4330.hcd \
     vendor/samsung/toroplus/proprietary/ducati-m3.bin:system/vendor/firmware/ducati-m3.bin \
     vendor/samsung/toroplus/proprietary/fw_bcmdhd.bin:sytem/vendor/firmware/fw_bcmdhd.bin \
-    vendor/samsung/toroplus/proprietary/fw_bcmdhd_apasta.bin:system/vendor/firmware/fw_bcmhd_apasta.bin \
+    vendor/samsung/toroplus/proprietary/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmhd_apsta.bin \
     vendor/samsung/toroplus/proprietary/fw_bcmdhd_p2p.bin:system/vendor/firmware/fw_bcmdhd_p2p.bin \
     vendor/samsung/toroplus/proprietary/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/samsung/toroplus/proprietary/mms144_ts_rev31.fw:system/vendor/firmware/mms144_ts_rev31.fw \
